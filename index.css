@@ -1,0 +1,121 @@
+
+.view{
+    display: flex;
+    justify-content: center;
+    margin: 50%  0%;
+  }
+  
+  
+  
+  
+  .top{
+    display: flex;
+    justify-content: space-around;
+    border:2px solid;
+    align-items: center;
+    width:200px;
+    height:40px;
+    margin-bottom: 4px;
+    
+  }
+  
+  .topimage{
+    border-left: 2px solid;
+  }
+  
+  .img1{
+    width:35px;
+   
+    padding-left:4px;
+  }
+  
+  .middle1{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+     width:200px;
+    height:45px;
+    margin-bottom: -20px;
+   
+  }
+  
+  .image2{
+    height:25px;
+    
+  }
+  
+  
+  .middleweek{
+   display: flex;
+    gap:6px;
+    font-size:20px;
+    justify-content: space-around;
+    margin-left: -35px;
+   
+    
+  }
+  .middleweek>li{
+  list-style:none;
+   padding-bottom:-10px ;
+  }
+  
+  .join{
+  border:2px solid;
+    width:200px;
+    height:90px;
+   border-bottom: none;
+  }
+  
+  .last{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width:200px;
+    height:150px;
+    border:2px solid;
+  
+    
+  }
+  
+  .lastdates{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    justify-content: center;
+    height:150px;
+    width:200px;
+    flex: 1 0 auto;
+    text-align: center;
+    margin: 5px;
+    padding-left: -0px;
+    
+    
+  } 
+  
+  .lastdates>li{
+    list-style:none;
+    border:2px solid;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  
+  .middle{
+   
+    height:70px
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
